@@ -54,11 +54,27 @@ int main(){
   cout << "Oi cara, digite sua idade sff: ";
   getline(cin,ageStr);
   age = stod(ageStr);
-  cout << "dobro da sua idade aih eh: " << age* << endl;
-
-  return 0;
+  cout << "dobro da sua idade aih eh: " << age*2 << endl;
 
   //
 
-  
+  cout << addNumbers(1) << endl;
+
+  cout << addNumbers(1,5,6) << endl;
+
+  return 0;
+
+}
+
+
+int addNumbers (int firstNum, int second = 0){
+
+  int combinedValue = firstNum + second;
+
+  return combinedValue;
+}
+
+int addNumbers (int firstNum, int second, int third){
+
+  return firstNum + second + third;
 }
