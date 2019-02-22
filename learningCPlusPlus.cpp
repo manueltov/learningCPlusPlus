@@ -11,6 +11,18 @@ sifbs
 
 using namespace std;
 
+int addNumbers (int firstNum, int second = 0){
+
+  int combinedValue = firstNum + second;
+
+  return combinedValue;
+}
+
+int addNumbers (int firstNum, int second, int third){
+
+  return firstNum + second + third;
+}
+
 int main(){
 
   cout << "Hello" << endl;
@@ -64,17 +76,4 @@ int main(){
 
   return 0;
 
-}
-
-
-int addNumbers (int firstNum, int second = 0){
-
-  int combinedValue = firstNum + second;
-
-  return combinedValue;
-}
-
-int addNumbers (int firstNum, int second, int third){
-
-  return firstNum + second + third;
 }
