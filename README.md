@@ -6,3 +6,9 @@ c++ learningCPlusPlus.cpp
 
 # run execute (in Windows)
 .\a.exe
+
+
+# links
+(a fazer) https://www.youtube.com/watch?v=Rub-JsjMhWY  (min 42:02)
+
+(por fazer) https://www.youtube.com/watch?v=vLnPwxZdW4Y
