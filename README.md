@@ -9,6 +9,6 @@ c++ learningCPlusPlus.cpp
 
 
 # links
-(a fazer) https://www.youtube.com/watch?v=Rub-JsjMhWY  (min 46:02)
+(a fazer)(feito!) https://www.youtube.com/watch?v=Rub-JsjMhWY  (min 46:02) (check!!)
 
 (por fazer) https://www.youtube.com/watch?v=vLnPwxZdW4Y
